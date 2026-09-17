@@ -1,0 +1,13 @@
+{
+  "name": "inkshot-online",
+  "version": "2.1.0",
+  "private": true,
+  "description": "INKSHOT: frontend Vercel e servidor cooperativo Node",
+  "scripts": {
+    "build": "node build-vercel.cjs",
+    "start": "node server.cjs"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
